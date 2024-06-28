@@ -2,6 +2,6 @@ package com.example.demo.controller;
 
 public class UserController {
     public String controllerImpl(){
-        return "ML ku dhan :)";
+        return "Kozhupu dhana unaku? ML ku dhan :)";
     }
 }
